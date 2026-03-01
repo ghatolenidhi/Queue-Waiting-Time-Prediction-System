@@ -67,6 +67,7 @@ The dataset contains the following features:
 ## 📁 Project Structure
 
 Queue_Waiting_Time_App/
+│
 ├── data/
 │   └── queue_waiting_time_large_dataset.csv
 │
@@ -75,10 +76,35 @@ Queue_Waiting_Time_App/
 │   ├── scaler.pkl
 │   └── queue_encoder.pkl
 │
+├── images/
+│   ├── input0.png
+│   ├── input1.png
+│   ├── input2.png
+│   └── output.png
+│
 ├── train_model.py
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+---
+
+## 📸 Application Screenshots
+
+### Input Page
+![Input Page](images/input0.png)
+
+### User Inputs
+![User Inputs](images/input1.png)
+
+### Prediction Action
+![Prediction Action](images/input2.png)
+
+### Output Result
+![Output Result](images/output.png)
+
+---
+
 
 
 ## ▶️ How to Run the Project
