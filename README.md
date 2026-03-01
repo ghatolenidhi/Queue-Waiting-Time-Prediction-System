@@ -65,8 +65,8 @@ The dataset contains the following features:
 ---
 
 ## 📁 Project Structure
+
 Queue_Waiting_Time_App/
-│
 ├── data/
 │   └── queue_waiting_time_large_dataset.csv
 │
@@ -81,12 +81,11 @@ Queue_Waiting_Time_App/
 └── README.md
 
 
----
-
 ## ▶️ How to Run the Project
 
-### 1️⃣ Clone the Repository
+
 ```bash
+# 1️⃣ Clone the Repository
 git clone <your-github-repo-link>
 cd Queue_Waiting_Time_App
 
