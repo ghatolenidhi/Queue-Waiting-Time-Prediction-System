@@ -123,5 +123,6 @@ python train_model.py
 
 # 4️⃣ Run Streamlit App
 streamlit run app.py
+http://localhost:8501
 
 
