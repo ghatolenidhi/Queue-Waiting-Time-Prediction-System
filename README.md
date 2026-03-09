@@ -66,6 +66,7 @@ The dataset contains the following features:
 
 ## 📁 Project Structure
 
+```text
 Queue_Waiting_Time_App/
 │
 ├── data/
@@ -86,6 +87,7 @@ Queue_Waiting_Time_App/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
